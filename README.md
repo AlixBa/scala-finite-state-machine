@@ -1,0 +1,4 @@
+- [Part 1 / Introduction](building-a-finite-state-machine-scala-framework-part-1.md)
+- [Part 2 / Implementation](building-a-finite-state-machine-scala-framework-part-2.md)
+- [Part 3 / Implementation (bis)](building-a-finite-state-machine-scala-framework-part-3.md)
+- [Part 4 / Conclusion](building-a-finite-state-machine-scala-framework-part-4.md)
